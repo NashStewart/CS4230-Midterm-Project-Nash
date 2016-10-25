@@ -8,7 +8,7 @@
 </head>
 <body>
 	<br/>
-	<form action="Login" method="post">
+	<form action="addCustomer" method="post">
 		<h3>Add New Customer</h3>
 		<label for="name">Name:</label>
 		<input type="text" name="name" /> <br/>

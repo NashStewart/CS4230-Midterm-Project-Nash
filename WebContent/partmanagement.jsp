@@ -8,7 +8,7 @@
 </head>
 <body>
 	<br/>
-	<form action="Login" method="post">
+	<form action="addPart" method="post">
 		<h3>Add New Part</h3>
 		<label for="partNumber">Part Number:</label>
 		<input type="text" name="partNumber" /> <br/>
